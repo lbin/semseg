@@ -1,0 +1,3 @@
+from my_submission.random_segmentation_model import RandomSegmentationModel
+
+MySegmentationModel = RandomSegmentationModel
